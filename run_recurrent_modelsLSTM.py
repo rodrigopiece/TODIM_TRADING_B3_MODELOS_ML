@@ -36,7 +36,7 @@ TEST_SIZE = 5
 HIDDEN_LAYERS = [20, 10, 5]
 LEARNING_RATE = 0.01
 EPOCHS = 5
-BATCH_SIZE = 1
+BATCH_SIZE = 200
 # ========================================================
 
 import tensorflow as tf
